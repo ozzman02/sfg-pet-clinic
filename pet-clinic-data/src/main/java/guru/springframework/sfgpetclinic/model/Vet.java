@@ -9,6 +9,7 @@ import java.util.Set;
 /**
  * Created by jt on 7/13/18.
  */
+@SuppressWarnings("serial")
 @Setter
 @Getter
 @NoArgsConstructor

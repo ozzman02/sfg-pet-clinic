@@ -10,6 +10,7 @@ import javax.persistence.Table;
  * Created by jt on 7/13/18.
  */
 
+@SuppressWarnings("serial")
 @Setter
 @Getter
 @NoArgsConstructor

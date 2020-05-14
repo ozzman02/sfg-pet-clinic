@@ -11,6 +11,7 @@ import javax.persistence.MappedSuperclass;
 /**
  * Created by jt on 7/13/18.
  */
+@SuppressWarnings("serial")
 @Getter
 @Setter
 @AllArgsConstructor

@@ -8,6 +8,7 @@ import java.time.LocalDate;
 /**
  * Created by jt on 7/29/18.
  */
+@SuppressWarnings("serial")
 @Setter
 @Getter
 @NoArgsConstructor

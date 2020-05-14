@@ -14,6 +14,7 @@ import java.io.Serializable;
 /**
  * Created by jt on 7/18/18.
  */
+@SuppressWarnings("serial")
 @Getter
 @Setter
 @NoArgsConstructor
